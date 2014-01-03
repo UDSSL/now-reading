@@ -12,12 +12,12 @@ widgets admin page. Drag and drop it onto your preferred sidebar to get started.
 ### UDSSL Now Reading Widget
 
 *UDSSL Now Reading Widget* displays a list of pages currently being accessed through a web page request to your site.
-Learn how to customize the widget styles via Customizer. [More on Widget!][1]
+Learn how to customize the widget styles via Customizer. [Read more about the Now Reading Widget][1]
 
 ### UDSSL Now Reading Plugin Settings
 
 Discover the *Now Reading Plugin Settings*. Configuration options that lets you to fine tune the
-functionality according to your wants. Ajax update is optional. You can disable Heartbeats. [More on Settings][2]
+functionality according to your wants. Ajax update is optional. You can disable Heartbeats. [Read more about the available Settings][2]
 
 ### UDSSL Now Reading Screenshots
 
@@ -27,7 +27,7 @@ Widgets Admin page. How the plugin is integrated into WordPress Theme Customizer
 ### UDSSL Now Reading Demonstration
 
 *Demonstration* of the widget front end functionality. Discover more ways to integrate the functionality to your site.
-Instructions for the inspection of WordPress Heartbeats. [Live Demo][4]
+Instructions for the inspection of WordPress Heartbeats. [Visit for a Live Demo][4]
 
 [1]: http://udssl.com/udssl-now-reading/now-reading-widget/
 [2]: http://udssl.com/udssl-now-reading/now-reading-settings/
