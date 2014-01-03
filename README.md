@@ -1,4 +1,4 @@
-![UDSSL Now Reading](https://raw.github.com/udssl/time-tracker/master/udssl-now-reading-banner.png)
+![UDSSL Now Reading](https://github.com/UDSSL/now-reading/blob/master/udssl-now-reading-banner.png)
 
 *UDSSL Time Tracker* helps you to **precisely** track your time. *Charts* allows
 you to **visualize** how your time is spent and helps you to be more productive.
